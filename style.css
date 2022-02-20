@@ -22,7 +22,7 @@ button, .fixedborder {
 .head-content{
     display: flex;
     justify-content: space-around;
-    margin-top: 100px;
+    margin-top: 70px;
 }
 
 span {
@@ -50,8 +50,7 @@ ul li {
 
 a.clear {
     text-decoration: none;
-    color: aliceblue;
-
+    color: mediumseagreen;
 }
 
 h1 {
@@ -67,16 +66,16 @@ ul {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    height: 500px;
+    height: 450px;
     justify-content: center;
-    align-items: stretch;
+    align-items: center;
     margin: 50px;
     gap: 50px;
 }
 
 .starter {
     width: 300px;
-    height: 500px;
+    height: 450px;
 }
 
 div .starter p {
@@ -96,6 +95,36 @@ h2 {
     margin-left: 60px;
 }
 
-button > .push > a {
-    color: #1f2937;
+.test {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #8fbc8f50;
+    gap: 30px;
+}
+
+#place-test {
+    max-width: 900px;
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+}
+
+#frame {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    padding-bottom: 50px;
+}
+
+.footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    width: 50%;
+    margin: 10px auto;
+    color: aliceblue;
+    border-radius: 20px;
 }
