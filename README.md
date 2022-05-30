@@ -1,7 +1,7 @@
 # Course_landpage
 This is a project on TOP. while building this, I can only think of means of empowering other young and agile minds with the thrills of making Web Development Courses available for the willing nobles.
 
-It's a perfect model but I hope you'll like it. No first project makes sense after all!
+It's not a perfect model but I hope you'll like it. No first project makes sense after all!
 
 <strong>Credits</strong>
 <ul>
